@@ -28,37 +28,28 @@ Software and Key Package Versions:
 ----------------------------------
 - R version: [R 4.4.1]
 - Key R packages used in this project include (with version numbers):
-  • sf: e.g., version 1.0-0 (built under R 4.4.2; linking to GEOS 3.12.2, GDAL 3.9.3, PROJ 9.4.1) - installed 1.0.19 
-  • spdep: (built under R 4.4.2) - installed 1.3.7 
-  • ggplot2: e.g., version 3.3.6 - installed 3.5.1 
-  • viridis: installed 0.6.5 
-  • car: installed 3.1.3 
-  • spatstat.explore: e.g., version 3.3-2 - installed 3.3.2 
-  • spatstat.geom: e.g., version 3.3-3 - installed 3.3.3 
-  • spatstat.model: e.g., version 3.3-2 - installed 3.3.2 
-  • network: installed version 1.18.2 (update available: 1.19.0) - installed 1.18.2 
-  • ggspatial: (built under R 4.4.2) - installed 1.1.9 
-  • vegan: e.g., version 2.6-8 - installed 2.6.8 
-  • scales: installed 1.3.0 
-  • dplyr: installed 1.1.4 
-  • patchwork: installed 1.3.0 
-  • tidygraph: installed 1.3.1 
-  • ggraph: installed 2.2.1 
-  • GGally: installed 2.2.1 
-  • FSA: e.g., version 0.9.5 - installed 0.9.5 
-  • stats: - installed 4.4.1 
-  • ggpubr: installed 0.6.0 
-  • writexl: installed 1.5.1 
-  • openxlsx: installed 4.2.7.1 
-  • sna: e.g., version 2.8 (created on 2024-09-07) - installed 2.8 
-  • statnet: e.g., version 2019.6 (2019-06-13) - installed 2019.6 
-  • igraph: installed 2.0.3 
-  • DT: installed 0.33 
-  • tnet: installed 3.0.16 
-  • kableExtra: installed 1.4.0 
-  • readxl: installed 1.4.3 
-  • dunn.test: installed 1.3.6 
-  • ggdist: installed 3.3.2 
+  • caret: 7.0.1
+  • dismo: 1.3.16
+  • dplyr: 1.1.4
+  • emmeans: 1.10.4
+  • ggdist: 3.3.2
+  • ggplot2: 3.5.2
+  • ggrepel: 0.9.6
+  • janitor: 2.2.1
+  • maxnet: 0.1.4
+  • nnet: 7.3.19
+  • patchwork: 1.3.0
+  • pROC: 1.18.5
+  • purrr: 1.0.2
+  • raster: 3.6.30
+  • readxl: 1.4.3
+  • scales: 1.3.0
+  • sf: 1.0.19
+  • terra: 1.8.5
+  • tibble: 3.2.1
+  • tidyr: 1.3.1
+  • usdm: 2.1.7
+  • viridis: 0.6.5
 
 Getting Started:
 ----------------------------------
